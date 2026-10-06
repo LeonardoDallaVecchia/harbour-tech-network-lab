@@ -2,7 +2,7 @@
 
 A small multi-VLAN office network I designed, built, secured and tested in Cisco Packet Tracer, as hands-on practice alongside my Networking Technologies degree at TU Dublin and my CCNA preparation.
 
-The full step-by-step log, with every command, screenshot and test, is in [Harbour-Tech-Project-Log.pdf](Harbour-Tech-Project-Log.pdf).
+The full step-by-step log, with every command, screenshot and test, is in [Harbour-Tech-Project-Log-Leo.pdf](Harbour-Tech-Project-Log-Leo.pdf).
 
 ## Scenario
 
@@ -84,6 +84,6 @@ Every test was chosen to prove one specific link or device, and TTL values were 
 
 | File | Contents |
 |---|---|
-| `harbour-tech-v1.pkt` | Packet Tracer project |
-| `configs/R1.txt`, `configs/SW1.txt`, `configs/SW2.txt` | Final running configurations |
-| `Harbour-Tech-Project-Log.pdf` | Full build log with screenshots |
+| `Harbour-tech-v1.pkt` | Packet Tracer project |
+| `configs/Router1_startup-config.txt`, `configs/Switch-1_startup-config.txt`, `configs/Switch-2_startup-config.txt` | Final running configurations |
+| `Harbour-Tech-Project-Log-Leo.pdf` | Full build log with screenshots |
